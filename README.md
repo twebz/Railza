@@ -1,4 +1,4 @@
-africanruby
+afruby
 ===========
 
 Just some code repository
